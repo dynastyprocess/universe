@@ -1,7 +1,8 @@
 [
     {
         "package": "ffscrapr",
-        "url": "https://github.com/dynastyprocess/ffscrapr"
+        "url": "https://github.com/dynastyprocess/ffscrapr",
+        "branch":"dev"
     },
     {
         "package": "fpscrapr",
