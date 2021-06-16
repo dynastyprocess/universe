@@ -5,8 +5,9 @@
         "branch":"dev"
     },
     {
-        "package": "fpscrapr",
-        "url": "https://github.com/dynastyprocess/fpscrapr"
+        "package": "ffpros",
+        "url": "https://github.com/dynastyprocess/ffpros",
+        "branch":"dev"
     },
     {
         "package": "usetheprocess",
