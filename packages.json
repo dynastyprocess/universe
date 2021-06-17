@@ -1,12 +1,17 @@
 [
     {
-        "package": "ffscrapr",
+        "package": "ffscrapr (dev)",
         "url": "https://github.com/dynastyprocess/ffscrapr",
         "branch":"dev"
     },
     {
         "package": "ffpros",
         "url": "https://github.com/dynastyprocess/ffpros",
+        "branch":"dev"
+    },
+    {
+        "package": "ffsimulator",
+        "url": "https://github.com/dynastyprocess/ffsimulator",
         "branch":"dev"
     },
     {
